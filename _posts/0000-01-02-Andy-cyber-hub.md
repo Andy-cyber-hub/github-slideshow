@@ -1,3 +1,10 @@
 layout : judul slide
 
- : "Selamat datang di slide kedua kami!" </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> orang </s>
+: "Selamat datang di slide kedua kami!" </s>    </s>    </s>    </s>    </s>    </ s
+
+
+
+
+
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang <
